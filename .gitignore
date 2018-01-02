@@ -1,0 +1,4 @@
+*.pyc
+*.nb
+viz
+results
